@@ -33,7 +33,7 @@ Some stuff I find interest in:
 
 -Cooking (Can't say I'm great at cooking but it's a work in progress)
 
--Concerts (one of the perks of living in LA is the frequency of artists visiting)
+-Concerts (Need I say more?)
 
 -Driving around LA during non-traffic hours
 
