@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photos
+title: People, Places, Things
 
 ---
 
