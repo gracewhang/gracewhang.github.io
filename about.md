@@ -38,6 +38,8 @@ Some stuff I find interest in:
 -Driving around LA during non-traffic hours
 
 
+Acknowledgement: This site was created using [Jekyll Now](http://www.jekyllnow.com/) which is a nifty, free tool which help regular people like me make websites like this :)
+
 ### Contact me
 
 [gwhang@g.ucla.edu](mailto:gwhang@g.ucla.edu)
