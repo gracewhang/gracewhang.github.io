@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Other Fun Stuff
-permalink: /about/
+permalink: /other/
 ---
 test 123
