@@ -16,10 +16,6 @@ permalink: /other/
 <center>Copenhagen, Denmark: September 2017 </center>
 
 
-![Image description](/images/2017Sept_Copenhagen2.JPG)
-<center>Copenhagen, Denmark: September 2017 </center>
-
-
 ![Image description](/images/2018Aug_Chicago.jpg)
 <center>Chicago, Illinois: August 2018 </center>
 
