@@ -73,17 +73,19 @@ permalink: /other/
 <center>Malibu, California: July 2019 </center>
 
 
-![Image description](/images/2017Sept_Amsterdam.JPG)
-<center>Amsterdam, Netherlands: September 2017 </center>
+![Image description](/images/2019Jun_UCLA.jpg)
+<center>University of California Los Angeles May 2019: September 2017 </center>
 
-![Image description](/images/2017Sept_Amsterdam.JPG)
-<center>Amsterdam, Netherlands: September 2017 </center>
-
-
-![Image description](/images/2017Sept_Amsterdam.JPG)
-<center>Amsterdam, Netherlands: September 2017 </center>
+![Image description](/images/2019Nov_SantaMonica.jpg)
+<center>Santa Monica, CA: November 2019 </center>
 
 
-![Image description](/images/2017Sept_Amsterdam.JPG)
-<center>Amsterdam, Netherlands: September 2017 </center>
+![Image description](/images/2020Jan_Berlin.jpg)
+<center>Berlin, Germany: January 2020 </center>
+
+
+![Image description](/images/2020Jan_Geneva.jpg)
+<center>Geneva, Switzerland: January 2020</center>
+
+
 
