@@ -31,6 +31,8 @@ Some stuff I find interest in:
 
 -Reading (I like short stories)
 
+-Creating digital artwork (See Main Page)
+
 -Cooking (Can't say I'm great at cooking but it's a work in progress)
 
 -Listening to Musice (Lianne La Havas, Vampire Weekend, The National, Jordan Rakei, FKJ, Rhye, Khruangbin, Cigarettes After Sex, Bombay Bicycle Club, James Vincent McMorrow, Amason(Swedish Group), City of the Sun(Guitar instrumentals), Sufjan Stevens, Tame Impala, Arcade Fire, Blind Pilot, City and Color, Gregory Alan Isakov, Miles Davis, Maribou State, The Shins, Real Estate, The War on Drugs, Alabama Shakes, Anderson Peak, Beach House, Beirut, Koffee, Palace)
