@@ -57,7 +57,7 @@ permalink: /other/
 <center>Lausanne, Switzerland: January 2020 </center>
 
 
-![Image description](/images/2019Jan_MarinaDelRey.jpg)
+![Image description](/images/2019Jan_MarinaDelRey.jpeg)
 <center>Marina del Rey, California: January 2019 </center>
 
 
