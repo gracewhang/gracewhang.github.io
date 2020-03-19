@@ -7,7 +7,7 @@ I am currently pursuing my PhD in [Materials Science & Engineering](https://www.
 
 1) Understanding the fundamental Lithium plating and stripping process in protective layers for Lithium metal anodes
 
-2) Studying the influence microstructure on electrochemical performance of iongels(a composite pseudosolid consisting of salts that are liquid at room temperature confined in a solid silica matrix electrolytes which behave like solids macroscopically but liquids microscopically)
+2) Studying the influence microstructure on electrochemical performance of iongels(a pseudosolid consisting of a salt that is liquid at room temperature which is confined in a solid silica matrix. They behave like solids macroscopically and like liquids microscopically)
 
 3) Translating photolithographic cleanroom technologies to fabricate an solid state photopatternable battery for on-chip applications
 
