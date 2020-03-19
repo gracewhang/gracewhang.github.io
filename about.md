@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I am currently pursuing my PhD in Materials Science & Engineering at UCLA studying battery materials. Several different ongoing projects:
 
-1) Understanding the fundamental plating and stripping process in protective layers for Lithium metal anodes
+1) Understanding the fundamental Lithium plating and stripping process in protective layers for Lithium metal anodes
 
 2) Studying the influence microstructure on electrochemical performance of iongels(a composite pseudosolid consisting of salts that are liquid at room temperature confined in a solid silica matrix electrolytes which behave like solids macroscopically but liquids microscopically)
 
