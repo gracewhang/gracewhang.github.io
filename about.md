@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am currently pursuing my PhD in Materials Science & Engineering at UCLA studying battery materials. Several different ongoing projects:
+I am currently pursuing my PhD in Materials Science & Engineering at UCLA studying battery materials under [Professor Bruce Dunn](https://scholar.google.com/citations?user=EbwiqDkAAAAJ&hl=en) working on several different ongoing projects:
 
 1) Understanding the fundamental Lithium plating and stripping process in protective layers for Lithium metal anodes
 
@@ -38,7 +38,7 @@ Some stuff I find interest in:
 -Driving around LA during non-traffic hours
 
 
-Acknowledgement: This site was created using [Jekyll Now](http://www.jekyllnow.com/) which is a nifty, free tool which help regular people like me make websites like this :)
+Acknowledgement: This site was created using [Jekyll Now](http://www.jekyllnow.com/) which is a nifty, free tool that helps regular people like me make websites like this :)
 
 ### Contact me
 
