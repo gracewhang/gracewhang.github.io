@@ -7,7 +7,11 @@ I am currently pursuing my PhD in [Materials Science & Engineering](https://www.
 
 1) Understanding the fundamental Lithium plating and stripping process in protective layers for Lithium metal anodes
 
-2) Studying the influence microstructure on electrochemical performance of iongels(a pseudosolid consisting of a salt that is liquid at room temperature which is confined in a solid silica matrix. They behave like solids macroscopically and like liquids microscopically)
+Lithium metal has long been considered the anode of choice for next-generation high energy density batteries due to its low standard reduction potential (-3.04 V vs. SHE) and high specific capacity (3860 mAh g-1) (These are the two key factors that determine Energy Density- how much charge you can store per weight). Per mass, it can store 10 times the amount of charge per weight that the commercial graphite anode can. However, the formation of lithium dendrites upon repeated plating and stripping(charging and discharging) persistently remains as the greatest opposition to its implementation in commercial devices. In order to address the problem, the interface, a critical region where breakdown and decomposition often occurs, must be properly understood and stabilized. The use of interfacial layers have been found to show promise in suppressing dendrite formation but the fundamental mechanism often interpreted 
+
+2) Studying the influence microstructure on electrochemical performance of ionogel electrolytes. 
+
+Ionogels are a class of pseudosolids. They are are composite of two phases: 1) a room temperature molten salt(think liquid soup consisting of just ions) which is confined in 2) a solid silica matrix (think porous glass with pore sizes in the nanoscale). They behave like solids at the macroscale and like liquids at the nanoscale, which is beneficial since ion movement in liquids is generally faster than in solids. The future of battery technology is shifted towards an all solid state system, removing the need to use flammable liquid electrolytes. Ionogels are generally non-flammable due to the fact that ionic liquids have negligible vapor pressure. Additionally, the ionic liquid stays confined inside the host silica matrix through capillary forces and thus do not evaporate.
 
 3) Translating photolithographic cleanroom technologies to fabricate an solid state photopatternable battery for on-chip applications
 
