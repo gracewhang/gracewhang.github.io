@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Other Fun Stuff
 permalink: /about/
 ---
 test 123
