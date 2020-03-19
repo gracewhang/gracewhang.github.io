@@ -3,4 +3,7 @@ layout: page
 title: Other Fun Stuff
 permalink: /other/
 ---
-test 123
+![Image description](/images/2016Dec_Washington.jpg)
+Washington, Dec. 2016
+
+![Image description](/images/2017Sept_Amsterdam.JPG)
