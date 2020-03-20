@@ -69,7 +69,15 @@ permalink: /other/
 <br>
 
 ![Image description](/images/2019Jun_UCLA.jpg)
-<center>University of California Los Angeles May 2019 </center>
+<center>University of California Los Angeles: May 2019 </center>
+<br>
+
+![Image description](/images/2019Sept_Beijing.jpg)
+<center>Beijing, China: September 2019 </center>
+<br>
+
+![Image description](/images/2019Sept_Seoul.jpg)
+<center>Seoul, Korea: September 2019 </center>
 <br>
 
 ![Image description](/images/2019Nov_SantaMonica.jpg)
