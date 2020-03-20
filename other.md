@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos of Real Places
+title: 
 permalink: /other/
 ---
 
@@ -84,8 +84,12 @@ permalink: /other/
 <center>Santa Monica, California: November 2019 </center>
 <br>
 
+![Image description](/images/2020Jan_Geneva.jpg)
+<center>Santa Monica, California: November 2019 </center>
+<br>
+
 ![Image description](/images/2020Jan_Berlin.jpg)
-<center>Berlin, Germany: January 2020 </center>
+<center>Geneva, Switzerland: January 2020 </center>
 <br>
 
 ![Image description](/images/2020Jan_BigBasin.jpg)
