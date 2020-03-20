@@ -16,14 +16,14 @@ Ionogels are a class of pseudosolids. They are a composite of two phases: 1) a r
 
 ### 3) Translating photolithographic cleanroom technologies to fabricate a solid state photopatternable battery for on-chip applications
 
-The invention of a transistor relies heavily on photolithographic processes which use UV-light(wavelength typically around 200-300nm) to chemically change light-sensitive materials in certain regions to create a designated pattern with nanoscale features. Silicon, which is the bread and butter of most traditional semiconductor technology just so happens to also be a material that is widely studied as a potential contender for next generation battery anodes. The ability to pattern and create 3 dimensional architectures for battery materials opens the door for a wide variety of on-chip battery and high power applications due to the increase surface area that 3D architectures offer over traditional planar designs.
+Transistor technology heavily relies upon on photolithographic processes which use UV-light(wavelength typically around 200-300nm) to chemically change light-sensitive materials in certain regions to create a designated pattern with nanoscale features. Silicon, which is the bread and butter of most traditional semiconductor technology just so happens to also be a material that is widely studied as a potential contender for next generation battery anodes. The ability to pattern and create 3 dimensional architectures for battery materials opens the door for a wide variety of on-chip battery and high power applications due to the increase surface area that 3D architectures offer over traditional planar designs.
 
 
 ### More Information
 
 Beyond work, here are some things I enjoy doing!
 
-* Gardening (A variety of Fruits, Vegetables, Indoor plants)
+* Gardening (A variety of fruits, vegetables, indoor plants)
 
 * Climbing (Indoor bouldering and lead climbing)
 
