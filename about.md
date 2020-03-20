@@ -23,7 +23,7 @@ The invention of a transistor relies heavily on photolithographic processes whic
 
 Beyond work, here are some things I enjoy doing!
 
--Gardening (My plants can prevail against the I-405 Freeway Dust)
+-Gardening (A variety of Fruits, Vegetables, Indoor plants)
 
 -Climbing (Indoor bouldering and lead climbing)
 
