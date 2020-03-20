@@ -88,4 +88,4 @@ permalink: /other/
 <center>Geneva, Switzerland: January 2020</center>
 
 
-
+]
