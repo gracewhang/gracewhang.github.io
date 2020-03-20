@@ -24,7 +24,7 @@ permalink: /other/
 <center>New York, New York: August 2018 </center>
 
 
-<img src="{{site.baseurl}}images/2018Aug_Stockholm.jpg">
+<img src="{{site.baseurl}}/images/2018Aug_Stockholm.jpg">
 <center>Stockholm, Sweden: August 2018 </center>
 
 
