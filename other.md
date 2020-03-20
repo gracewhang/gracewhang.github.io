@@ -45,12 +45,8 @@ permalink: /other/
 <center>Lake Tahoe, California: July 2018</center>
 
 
-![Image description](/images/2018Sept_Copenhagen.jpg)
+![Image description](/images/2018Sept_Copenhagen.jpg )
 <center>Copenhagen, Denmark: September 2018 </center>
-
-
-![Image description](/images/2019Dec_Lausanne.jpg)
-<center>Lausanne, Switzerland: January 2020 </center>
 
 
 ![Image description](/images/2019Jan_MarinaDelRey.jpeg)
@@ -87,5 +83,3 @@ permalink: /other/
 ![Image description](/images/2020Jan_Geneva.jpg)
 <center>Geneva, Switzerland: January 2020</center>
 
-
-]
