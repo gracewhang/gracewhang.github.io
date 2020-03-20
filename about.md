@@ -23,30 +23,30 @@ The invention of a transistor relies heavily on photolithographic processes whic
 
 Beyond work, here are some things I enjoy doing!
 
--Gardening (A variety of Fruits, Vegetables, Indoor plants)
+* Gardening (A variety of Fruits, Vegetables, Indoor plants)
 
--Climbing (Indoor bouldering and lead climbing)
+* Climbing (Indoor bouldering and lead climbing)
 
--Homebrewing (I'm a big fan of brown ales)
+* Homebrewing (I'm a big fan of brown ales)
 
--Knittting (Trying to work towards my life long dream of being able to knit my own socks)
+* Knittting (Trying to work towards my life long dream of being able to knit my own socks)
 
--Soap Making (Sometimes I like to do practical experiments at home)
+* Soap Making (Sometimes I like to do practical experiments at home)
 
--Podcasts (NPR's Up First, The Daily, Ologies, Planet Money)
+* Podcasts (NPR's Up First, The Daily, Ologies, Planet Money)
 
--Reading (I like short stories)
+* Reading (I like short stories)
 
--Creating digital artwork (See Photos Page)
+* Creating digital artwork (See Photos Page)
 
--Cooking (Can't say I'm great at cooking but it's a work in progress)
+* Cooking (Can't say I'm great at cooking but it's a work in progress)
 
--Listening to Music (Lianne La Havas, Vampire Weekend, The National, Jordan Rakei, FKJ, Rhye, Khruangbin, Cigarettes After Sex, Bombay Bicycle Club, James Vincent McMorrow, Amason(Swedish Group), City of the Sun(Guitar instrumentals), Sufjan Stevens, Tame Impala, Arcade Fire, Blind Pilot, City and Color, Gregory Alan Isakov, Miles Davis, Maribou State, The Shins, Real Estate, The War on Drugs, Alabama Shakes, Anderson Peak, Beach House, Beirut, Koffee, Palace)
+*Listening to Music (Lianne La Havas, Vampire Weekend, The National, Jordan Rakei, FKJ, Rhye, Khruangbin, Cigarettes After Sex, Bombay Bicycle Club, James Vincent McMorrow, Amason(Swedish Group), City of the Sun(Guitar instrumentals), Sufjan Stevens, Tame Impala, Arcade Fire, Blind Pilot, City and Color, Gregory Alan Isakov, Miles Davis, Maribou State, The Shins, Real Estate, The War on Drugs, Alabama Shakes, Anderson Peak, Beach House, Beirut, Koffee, Palace)
 
--Driving around LA during non-traffic hours
+*Driving around LA during non-traffic hours
 
 
-Acknowledgement: This site was created using [Jekyll Now](http://www.jekyllnow.com/) which is a nifty, free tool that helps regular people like me make websites like this :)
+This site was created using [Jekyll Now](http://www.jekyllnow.com/) which is a nifty, free tool that helps regular people like me make websites like this :)
 
 ### Contact me
 
