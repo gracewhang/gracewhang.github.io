@@ -20,7 +20,7 @@ permalink: /other/
 <center>Chicago, Illinois: August 2018 </center>
 
 
-![Image description](/images/2018Aug_New_York.jpg)
+![Image description](/images/2018Aug_New York.jpg)
 <center>New York, New York: August 2018 </center>
 
 
