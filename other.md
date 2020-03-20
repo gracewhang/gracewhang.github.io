@@ -48,7 +48,7 @@ permalink: /other/
 <center>Copenhagen, Denmark: September 2018 </center>
 <br>
 
-![Image description](/images/2019Jan_MarinaDelRey.jpeg)
+![Image description](/images/2019Jan_MarinaDelRey.jpg)
 <center>Marina del Rey, California: January 2019 </center>
 <br>
 
@@ -69,7 +69,7 @@ permalink: /other/
 <br>
 
 ![Image description](/images/2019Jun_UCLA.jpg)
-<center>University of California Los Angeles May 2019: September 2017 </center>
+<center>University of California Los Angeles May 2019 </center>
 <br>
 
 ![Image description](/images/2019Nov_SantaMonica.jpg)
