@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Fun Stuff
+title: Photos of Real Places
 permalink: /other/
 ---
 
@@ -73,13 +73,17 @@ permalink: /other/
 <br>
 
 ![Image description](/images/2019Nov_SantaMonica.jpg)
-<center>Santa Monica, CA: November 2019 </center>
+<center>Santa Monica, California: November 2019 </center>
 <br>
 
 ![Image description](/images/2020Jan_Berlin.jpg)
 <center>Berlin, Germany: January 2020 </center>
 <br>
 
-![Image description](/images/2020Jan_Geneva.jpg)
-<center>Geneva, Switzerland: January 2020</center>
+![Image description](/images/2020Jan_BigBasin.jpg)
+<center>Big Basin Redwoods State Park, California: January 2020</center>
+<br>
 
+![Image description](/images/2020Jan_SantaCruz.jpg)
+<center>Santa Cruz, California: January 2020</center>
+<br>
