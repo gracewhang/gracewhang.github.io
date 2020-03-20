@@ -41,9 +41,9 @@ Beyond work, here are some things I enjoy doing!
 
 * Cooking (Can't say I'm great at cooking but it's a work in progress)
 
-*Listening to Music (Lianne La Havas, Vampire Weekend, The National, Jordan Rakei, FKJ, Rhye, Khruangbin, Cigarettes After Sex, Bombay Bicycle Club, James Vincent McMorrow, Amason(Swedish Group), City of the Sun(Guitar instrumentals), Sufjan Stevens, Tame Impala, Arcade Fire, Blind Pilot, City and Color, Gregory Alan Isakov, Miles Davis, Maribou State, The Shins, Real Estate, The War on Drugs, Alabama Shakes, Anderson Peak, Beach House, Beirut, Koffee, Palace)
+* Listening to Music (Lianne La Havas, Vampire Weekend, The National, Jordan Rakei, FKJ, Rhye, Khruangbin, Cigarettes After Sex, Bombay Bicycle Club, James Vincent McMorrow, Amason(Swedish Group), City of the Sun(Guitar instrumentals), Sufjan Stevens, Tame Impala, Arcade Fire, Blind Pilot, City and Color, Gregory Alan Isakov, Miles Davis, Maribou State, The Shins, Real Estate, The War on Drugs, Alabama Shakes, Anderson Peak, Beach House, Beirut, Koffee, Palace)
 
-*Driving around LA during non-traffic hours
+* Driving around LA during non-traffic hours
 
 
 This site was created using [Jekyll Now](http://www.jekyllnow.com/) which is a nifty, free tool that helps regular people like me make websites like this :)
