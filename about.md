@@ -23,27 +23,25 @@ Transistor technology heavily relies upon on photolithographic processes which u
 
 Beyond work, here are some things I enjoy doing!
 
-* Gardening (A variety of fruits, vegetables, indoor plants)
+* Gardening (a variety of fruits, vegetables, indoor plants)
 
-* Climbing (Indoor bouldering and lead climbing)
+* Climbing (indoor bouldering and lead climbing)
 
-* Homebrewing (I'm a big fan of brown ales)
+* Homebrewing (a fan of brown ales)
 
-* Knittting (Trying to work towards my life long dream of being able to knit my own socks)
+* Knittting (attempting socks)
 
-* Soap Making (Sometimes I like to do practical experiments at home)
+* Soap Making 
 
 * Podcasts (NPR's Up First, The Daily, Ologies, Planet Money)
 
-* Reading (I like short stories)
+* Reading (short stories are great)
 
-* Creating digital artwork (See Photos Page)
-
-* Cooking (Can't say I'm great at cooking but it's a work in progress)
+* Creating digital artwork (see Photos Page)
 
 * Listening to Music (Lianne La Havas, Vampire Weekend, The National, Jordan Rakei, FKJ, Rhye, Khruangbin, Cigarettes After Sex, Bombay Bicycle Club, James Vincent McMorrow, Amason, City of the Sun, Sufjan Stevens, Tame Impala, Arcade Fire, Blind Pilot, City and Color, Gregory Alan Isakov, Miles Davis, Maribou State, The Shins, Real Estate, The War on Drugs, Alabama Shakes, Anderson Peak, Beach House, Beirut, Koffee, Palace)
 
-* Driving around LA during non-traffic hours
+* Driving around LA during non-traffic hours (so never:)
 
 
 This site was created using [Jekyll Now](http://www.jekyllnow.com/) which is a nifty, free tool that helps regular people like me make websites like this :)
