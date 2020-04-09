@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /other/
+permalink: /travel/
 ---
 
 ![Image description](/images/2016Dec_Washington.jpg)
