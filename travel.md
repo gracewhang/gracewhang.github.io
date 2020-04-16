@@ -99,3 +99,8 @@ permalink: /travel/
 ![Image description](/images/2020Jan_SantaCruz.jpg)
 <center>Santa Cruz, California: January 2020</center>
 <br>
+
+ 
+![Image description](/images/2020Apr_BorregoSprings.jpg)
+<center>Borrego Springs, California: April 2020</center>
+<br>	
