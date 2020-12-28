@@ -9,8 +9,11 @@ I am currently pursuing my PhD in [Materials Science & Engineering](https://www.
 
 Lithium metal has long been considered the anode of choice for next-generation high energy density batteries due to its low standard reduction potential (-3.04 V vs. SHE) and high specific capacity (3860 mAh g-1, ten times that of commercially used graphite). However, the formation of lithium dendrites finger like structures, which continue to grow upon upon repeated plating and stripping and often result in short circuiting(lithium dendrites touch the cathode resulting in high current flow inside the battery contained in flammable electrolyte) persistently remains as the greatest opposition to its implementation in commercial devices. In order to address the problem, the interface, a critical region where breakdown and decomposition often occurs, must be properly understood and stabilized. The use of coating layers on the lithium surface have been found to show promise in suppressing dendrite formation to some degree but the mechansims at play are still less agreed upon. While most lithium coatings result in plating on top of the coating layer with improved morphology of lithium deposits, less studied is the case where the lithium can be transported through the layer and deposited underneath. The ability to understand the mechanism of plating underneath is both of fundamental and practical interest in better understanding the critical parameters to drive lithium transport through a layer and the ability to apply design principles to create a layer that can supress lithium dendrite growth.
 
+<br>
 <br> Here's a link to a Perspective my collaborator Qizhang and I wrote in Applied Physics Letters. [APL Perspective](https://aip.scitation.org/doi/abs/10.1063/5.0018417)
-<br> Here's a link to my work studying the mechanism of plating lithium underneath lithium-tin based intermetallic coatings as an approach to circumvent lithium dendrites. [Journal of Materials Research](link}
+<br>
+<br> Here's a link to my work studying the mechanism of plating lithium underneath lithium-tin based intermetallic coatings as an approach to circumvent lithium dendrites. [Journal of Materials Research](link)
+<br>
 <br> Part of the work published above was presented at the Materials Research Fall 2020 Conference at symposium ENO3 (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award" :)
 
 ### 2) Studying the influence microstructure on electrochemical performance of ionogel electrolytes. 
