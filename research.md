@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: /Research/
+permalink: /research/
 ---
 I am currently pursuing my PhD in [Materials Science & Engineering](https://www.mse.ucla.edu/) at UCLA studying battery materials under [Professor Bruce Dunn](https://scholar.google.com/citations?user=EbwiqDkAAAAJ&hl=en) working on several different ongoing projects:
 
