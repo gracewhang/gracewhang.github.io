@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-permalink: /Research/
+title: About
+permalink: /about/
 ---
 
 ### More Information
