@@ -14,7 +14,7 @@ Lithium metal has long been considered the anode of choice for next-generation h
 <br>
 <br> Here's a link to my work studying the mechanism of plating lithium underneath lithium-tin based intermetallic coatings as an approach to circumvent lithium dendrites. [Journal of Materials Research](link)
 <br>
-<br> Part of the work published above was presented at the Materials Research Fall 2020 Conference at symposium EN03 (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award" :)
+<br> I presented at the [Materials Research Fall 2020 Conference at symposium EN03](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2020-mrs-spring-and-fall-meeting/call-for-papers/call-for-papers-detail?code=F.EN03) (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award." Here's a link to my [abstract](link).
 
 ### 2) Studying the influence microstructure on electrochemical performance of ionogel electrolytes. 
 
