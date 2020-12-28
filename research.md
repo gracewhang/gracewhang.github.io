@@ -14,16 +14,23 @@ Lithium metal has long been considered the anode of choice for next-generation h
 <br>
 <br> Here's a link to my work studying the mechanism of plating lithium underneath lithium-tin based intermetallic coatings as an approach to circumvent lithium dendrites. [Journal of Materials Research](link)
 <br>
-<br> Part of the work published above was presented at the Materials Research Fall 2020 Conference at symposium ENO3 (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award" :)
+<br> Part of the work published above was presented at the Materials Research Fall 2020 Conference at symposium EN03 (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award" :)
 
 ### 2) Studying the influence microstructure on electrochemical performance of ionogel electrolytes. 
 
 Ionogels are a class of pseudosolids. They are a composite of two phases: 1) a room temperature molten salt(think liquid soup consisting of just ions) which is confined in 2) a solid silica matrix (think porous glass with pore sizes in the nanoscale). Ionogels behave like solids at the macroscale and like liquids at the nanoscale, resulting in faster ion movement(ions in liquids are generally faster than in solids), while imparting the beneficial mechanical properties of a solid. The future of battery technology has shifted towards an all solid state system, removing the need to use flammable liquid electrolytes. Ionogels are generally non-flammable due to their negligible vapor pressure which make them promising candidates from a safety standpoint. In addition to the fact that the ionic liquid does not evaporate out of the silica matrix, it also stays confined inside the host silica matrix through capillary forces which make them an interesting class of materials to study for more reasons than one. Lastly, there is a growing interest in the use of ionogels in low temperature applications(space perhaps?) due to the low freezing point which can further be lowered by mixing of different salts(entropy effect) and also due the confinement effects from the nanoporpous silica matrix.
 
+<br>I don't have any published work on this project but if you're interested in ionogels, I'd highly recommend this [paper](https://www.cell.com/joule/pdfExtended/S2542-4351(17)30037-5) published in Joule from our group.
+
 ### 3) Translating photolithographic cleanroom technologies to fabricate a solid state photopatternable battery for on-chip applications
 
 Transistor technology heavily relies upon on photolithographic processes which use UV-light(wavelength typically around 200-300nm) to chemically change light-sensitive materials in certain regions to create a designated pattern with nanoscale features. Silicon, which is the bread and butter of most traditional semiconductor technology just so happens to also be a material that is widely studied as a potential contender for next generation battery anodes. The ability to pattern and create 3 dimensional architectures for battery materials opens the door for a wide variety of on-chip battery and high power applications due to the increase surface area that 3D architectures offer over traditional planar designs.
 
+<br>If you're interested in this work, I'd check out this [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201703772) published in Advanced Materials from our group.
+
+
+<br>
+If you are interested in reading the works linked above but have trouble accessing it, shoot me an email!
 
 ### More Information
 For a list of publications, click [here](https://scholar.google.com/citations?user=wPIyh4QAAAAJ&hl=en).
