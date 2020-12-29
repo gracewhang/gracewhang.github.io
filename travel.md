@@ -106,6 +106,6 @@ permalink: /travel/
 <br>	
 
 
-![Image description](/images/topanga.jpg)
+![Image description](/images/Nov2020_topanga.png)
 <center>Topanga State Park, California: November 2020</center>
 <br>	
