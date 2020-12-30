@@ -109,3 +109,9 @@ permalink: /travel/
 ![Image description](/images/Nov2020_topanga.png)
 <center>Topanga State Park, California: November 2020</center>
 <br>	
+
+
+![Image description](/images/Dec2020_idyllwild.png)
+<center>Idyllwild, California: November 2020</center>
+<br>	
+
