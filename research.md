@@ -7,7 +7,7 @@ I'm a PhD student in [Materials Science & Engineering](https://www.mse.ucla.edu/
 
 ### 1) Understanding the mechanism of lithium plating underneath coatings as an approach to circumventing lithium dendrites
 
-![Image description](/images/Picture1.png)
+
 
 
 Lithium metal has long been considered the anode of choice for next-generation high energy density batteries due to its low standard reduction potential (-3.04 V vs. SHE) and high specific capacity (3860 mAh g-1, ten times that of commercially used graphite). However, the formation of lithium dendrites presents both safety concerns and decaying performance (Low Coulombic Efficiency and Dead Lithium) which continues to stand in the way of its implementation in commercial rechageable batteries. In order to address the problem, the interface, a critical region where breakdown and decomposition often occurs, must be properly understood and stabilized. The use of coating layers on the lithium surface have been found to show promise in suppressing dendrite formation to some degree by tuning the morphology of the plated lithium. However, while most lithium coatings result in plating on top of the coating whereby the coating serves as a nucleation substrate,  less studied is the case where the lithium can be transported through the layer and deposited underneath. The ability to understand the mechanism of plating underneath is both of fundamental and practical interest in better understanding the critical parameters to drive lithium transport through a layer and the ability to apply design principles to create a layer that can supress lithium dendrite growth.
