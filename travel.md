@@ -112,6 +112,6 @@ permalink: /travel/
 
 
 ![Image description](/images/Dec2020_idyllwild.png)
-<center>Idyllwild, California: November 2020</center>
+<center>Idyllwild, California: December 2020</center>
 <br>	
 
