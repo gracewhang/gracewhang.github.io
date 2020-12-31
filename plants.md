@@ -5,7 +5,7 @@ permalink: /plants/
 ---
 ## 2020 Gardening Highlights
 ![Image description](/images/2020_hops.png)
-<center>Cascade Hops. Got to use this for wet hopping my red ale homebrew :)</center>
+<center>Cascade Hops. Got to use them for wet hopping my red ale homebrew :)</center>
 <br>
 
 ![Image description](/images/2020_jacaranda.png)
@@ -13,7 +13,7 @@ permalink: /plants/
 <br>
 
 ![Image description](/images/2020_okra.png)
-<center>Flower from my Okra plant- would you look at that five-fold symmetry :D </center>
+<center>Flower from my Okra plant- wooo for five-fold symmetry </center>
 <br>
 
 ![Image description](/images/2020_tomato.png)
