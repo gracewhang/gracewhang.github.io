@@ -5,19 +5,19 @@ permalink: /plants/
 ---
 ## 2020 Gardening Highlights
 ![Image description](/images/2020_hops.png)
-<center>Cascade Hops</center>
+<center>Cascade Hops. Got to use this for wet hopping my red ale homebrew :)</center>
 <br>
 
 ![Image description](/images/2020_jacaranda.png)
-<center>Jacaranda tree grown from a seed</center>
+<center>Jacaranda tree grown from a seed </center>
 <br>
 
 ![Image description](/images/2020_okra.png)
-<center>Beautiful flower from my Okra plant</center>
+<center>Flower from my Okra plant- would you look at that five-fold symmetry :D </center>
 <br>
 
 ![Image description](/images/2020_tomato.png)
-<center>My mutant San Marzano Tomato</center>
+<center>My mutant San Marzano Tomato. Last year I grew a tomato with two horns- this year, it's a snowman.</center>
 <br>
 
 ![Image description](/images/2020_tomato1.png)
@@ -25,7 +25,7 @@ permalink: /plants/
 <br>
 
 ![Image description](/images/2020_dragonfruit.png)
-<center>Dragonfruit [they grow up so fast :')]</center>
+<center>Red Flesh Dragonfruit- my pride & joy</center>
 <br>
 
 ![Image description](/images/2020_peppers.JPG)
@@ -36,8 +36,8 @@ permalink: /plants/
 <center>Aspargus Fern, Basil, & Succulents</center>
 <br>
 
-![Image description](/images/2020_succulent.png)
-<center>Aspargus Fern, Basil, & Succulents</center>
+![Image description](/images/2020_potato.png)
+<center>Long time admirer, first time grower: potatoes!</center>
 <br>
 
 ![Image description](/images/2020_sunflower.png)
