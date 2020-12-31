@@ -28,8 +28,12 @@ permalink: /plants/
 <center>Dragonfruit [they grow up so fast :')]</center>
 <br>
 
-![Image description](/images/2020_potato.png)
-<center>Long time admirer, first time grower: potatoes</center>
+![Image description](/images/2020_peppers.JPG)
+<center>Peppers</center>
+<br>
+
+![Image description](/images/2020_succulent.png)
+<center>Aspargus Fern, Basil, & Succulents</center>
 <br>
 
 ![Image description](/images/2020_succulent.png)
