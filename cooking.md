@@ -15,6 +15,14 @@ First time cooking with butternut squash- came out pretty good too. The recipe I
 
 ## Recipe 2: Chocolate Peanut Butter
 
+
+<figure class="half" style="display:flex">
+    <img style="width:400px" src="/images/20210103_peanuts.JPG">
+    <img style="width:600px" src="/images/20210103_chocolate_peanut_butter.JPG">
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
+
 <div class="row">
   <div class="column">
     <img src="/images/20210103_peanuts.JPG" alt="Roasted Peanuts" style="width:100%">
