@@ -15,16 +15,14 @@ First time cooking with butternut squash- came out pretty good too. The recipe I
 
 ## Recipe 2: Chocolate Peanut Butter
 
- <div class="row">
+<div class="row">
   <div class="column">
     <img src="/images/20210103_peanuts.JPG" alt="Roasted Peanuts" style="width:100%">
   </div>
   <div class="column">
-    <img src="20210103_chocholate_peanut_butter.JPG" alt="Chocolate Peanut Butter" style="width:100%">
+    <img src="20210103_chocolate_peanut_butter.JPG" alt="Chocolate Peanut Butter" style="width:100%">
   </div>
 </div> 
-![Image description](/images/20210101_Butternut_Squash.jpg)
-<center>Chocolate Peanut Butter</center>
 <br>
 Think nutella but peanut butter (although, just read somewhere that nutella is primarily sugar and palm oil with hazelnuts coming in at a distant third ingredient-sad). I loosely "followed" [this](https://www.inspiredtaste.net/21318/how-to-make-peanut-butter-three-ways/) recipe. I chopped 2 cups of roasted peanuts in a food processor- luckily if you have a mom who just happened to send you back from the holidays with a giant tub of freshly roasted raw peanuts, you're in luck! Once the peanuts are chopped finely (might have to open up the processor and scrape some of the peanuts stuck to the side walls a few times) and have the consistency matching the crumbs leftover from a [Nature Valley Crunchy Granola Bar](https://www.reddit.com/r/starterpacks/comments/8wadm6/nature_valley_crunch_starterpack/?utm_source=share&utm_medium=web2x&context=3), add in oil,salt, cocoa powder, powdered sugar, and use your food processor to blend it all together. I ended up adding more oil little by little to get the consistency just right for my liking. I also added a 1/2 teaspoon of ground cinnamon because why not? I transferred the resulting chocolate peanut butter into a mason jar and stored it in the fridge. 
 
