@@ -21,7 +21,7 @@ First time cooking with butternut squash- came out pretty good too. The recipe I
 ![Image description](/images/20210105_pasta.jpg)
 <center>Shrimp Pasta or Whatever-you-want-to-add Pasta</center>
 <br>
-Here's a really simple recipe to make pasta that does not taste like you put store bought pasta directly into a jar of pre-made pasta sauce. This recipe was adapted from a phone call I had with my mom about how she made the seafood pasta we had over winter break. Here are very loose and rather hand wavy instructions- for the pasta pictured above, I will say that I spilled half a container of italian seasoning into my pasta and had to pick out as much as I could. With that being said, I don't think italian spices are necessary so I will opt out from them going forward. So without further ado, here are the ingredients:
+Here's a really simple recipe to make pasta that does not taste like you put store bought pasta directly into a jar of pre-made pasta sauce. This recipe was adapted from a phone call I had with my mom about how she made the seafood pasta we had over winter break. Here are very loose and rather hand wavy instructions. For the pasta pictured above, I will admit that I spilled half a container of italian seasoning into my pasta and had to pick out as much as I could. With that being said, I don't think italian spices are necessary so I will opt out going forward. So without further ado, here are the ingredients:
 For a serving size to feed a village, you'll need:
 <br> olive oil, enough to cover the bottom of a pan (I used a 14" diameter, 3" tall pan)
 <br> 3 cloves of garlic, finely chopped (if you are garlic's #1 fan, by all means use more- I know I did)
