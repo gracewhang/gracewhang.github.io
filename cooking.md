@@ -29,6 +29,8 @@ For a serving size to feed a village, you'll need:
 <br>1/2 cup of White Zinfandel Wine (I used Beringer- doesn't break the bank and it also happens to be the one my mom used)
 <br>28 oz can of San Marzano Tomatoes, Crushed (I really like [this brand](https://www.instacart.com/landing?product_id=24878&retailer_id=161&region_id=1392025211&mrid=142960563&utm_medium=sem_shopping&utm_source=instacart_google&utm_campaign=ad_demand_shopping_food_ca_losangeles_newengen&utm_content=accountid-8145171519_campaignid-1700095389_adgroupid-86977167996_device-c&gclid=Cj0KCQiA3NX_BRDQARIsALA3fIJi8iaJhoLX6iQR2jblePi_21TmbloVDHHqRqPpMPxBHWLKcT00GXsaAoiPEALw_wcB).
 <br>1 lb of [spaghetti](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunkee.com%2Fyes-eminem-is-selling-moms-spaghetti-t-shirts-that-you-can-actually-buy%2F77913&psig=AOvVaw0ub3NBx6gniNgJmXfgB_Jt&ust=1610060782399000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND6noG2iO4CFQAAAAAdAAAAABAK)
+<br>parmesan cheese [optional]
+<br>shrimp [optional]
 
 So yeah- you only need 6 ingredients to make this pasta (of course, if you want to add shrimp, meat, or other vegetables, you can also tack that onto the ingredients).
 
