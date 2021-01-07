@@ -7,26 +7,26 @@ permalink: /cooking/
 
 ## Recipe 1: Chocolate Peanut Butter
 ![Image description](/images/20210103_chocolatepeanutbutter.png)
-<center>Chocolate Peanut Butter</center>
+<center><b>Chocolate Peanut Butter</b></center>
 <details>
-  <summary>Click here for more details!</summary>
+  <summary>Click here for more details</summary>
 Think nutella but peanut butter (although, just read somewhere that nutella is primarily sugar and palm oil with hazelnuts coming in at a distant third ingredient-sad). I loosely "followed" [this](https://www.inspiredtaste.net/21318/how-to-make-peanut-butter-three-ways/) recipe. I chopped 2 cups of roasted peanuts in a food processor- luckily if you have a mom who just happened to send you back from the holidays with a giant tub of freshly roasted raw peanuts, you're in luck! Once the peanuts are chopped finely (might have to open up the processor and scrape some of the peanuts stuck to the side walls a few times) and have the consistency matching the crumbs leftover from a [Nature Valley Crunchy Granola Bar](https://www.reddit.com/r/starterpacks/comments/8wadm6/nature_valley_crunch_starterpack/?utm_source=share&utm_medium=web2x&context=3), add in oil, salt, cocoa powder, powdered sugar, and use your food processor to blend it all together. I ended up adding more oil little by little to get the consistency just right for my liking. I also added a 1/2 teaspoon of ground cinnamon because why not? I transferred the resulting chocolate peanut butter into a mason jar and stored it in the fridge. 
 </details>
 
 
 ## Recipe 2: Spicy Butternut Squash Pasta with Spinach
 ![Image description](/images/20210101_Butternut_Squash.jpg)
-<center>Spicy Butternut Squash Pasta with Spinach</center>
+<center><b>Spicy Butternut Squash Pasta with Spinach</b></center>
 <details>
-  <summary>Click here for more details!</summary>
+  <summary>Click here for more details</summary>
 First time cooking with butternut squash- came out pretty good too. The recipe I followed was from The [New York Times](https://cooking.nytimes.com/recipes/1021535-spicy-butternut-squash-pasta-with-spinach). Instead of ground cumin, I substituted it with whole cumin seeds and because I like cumin seeds a lot, I doubled the amount to two tablespoons. For next time, I'd probably add more salt along the way and add some sliced pickled jalapeños right before baking the dish (I just used raw jalapeños this time) to help the flavor.
 </details>
 
 ## Recipe 3: Simple Pasta with Minimal Ingredients
 ![Image description](/images/20210105_pasta.jpg)
-<center>Shrimp Pasta or Whatever-you-want-to-add Pasta</center>
+<center><b>Shrimp Pasta or Whatever-you-want-to-add Pasta</b></center>
 <details>
-  <summary>Click here for more details!</summary>
+  <summary>Click here for more details</summary>
 Here's a really simple recipe to make pasta that does not taste like you put store bought pasta directly into a jar of pre-made pasta sauce. This recipe was adapted from a phone call I had with my mom about how she made the seafood pasta we had over winter break. Here are very loose and rather hand wavy instructions. For the pasta pictured above, I will admit that I spilled half a container of italian seasoning into my pasta and had to pick out as much as I could. With that being said, I don't think italian spices are necessary so I will opt out going forward. So without further ado, here are the ingredients:
 <br>For a serving size to feed a village, you'll need:
 >- olive oil, enough to cover the bottom of a pan (I used a 14" diameter, 3" tall pan)
