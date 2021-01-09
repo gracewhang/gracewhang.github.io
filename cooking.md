@@ -10,7 +10,7 @@ permalink: /cooking/
 <center><b>Chocolate Peanut Butter</b></center>
 <details>
   <summary>Click here for more details</summary>
-Think nutella but peanut butter (although, just read somewhere that nutella is primarily sugar and palm oil with hazelnuts coming in at a distant third ingredient-sad). I loosely "followed" [this](https://www.inspiredtaste.net/21318/how-to-make-peanut-butter-three-ways/) recipe. I chopped 2 cups of roasted peanuts in a food processor- luckily if you have a mom who just happened to send you back from the holidays with a giant tub of freshly roasted raw peanuts, you're in luck! Once the peanuts are chopped finely (might have to open up the processor and scrape some of the peanuts stuck to the side walls a few times) and have the consistency matching the crumbs leftover from a [Nature Valley Crunchy Granola Bar](https://www.reddit.com/r/starterpacks/comments/8wadm6/nature_valley_crunch_starterpack/?utm_source=share&utm_medium=web2x&context=3), add in oil, salt, cocoa powder, powdered sugar, and use your food processor to blend it all together. I ended up adding more oil little by little to get the consistency just right for my liking. I also added a 1/2 teaspoon of ground cinnamon because why not? I transferred the resulting chocolate peanut butter into a mason jar and stored it in the fridge. 
+Think nutella but peanut butter (although, just read somewhere that nutella is primarily sugar and palm oil with hazelnuts coming in at a distant third ingredient-sad). I loosely "followed" <a href="https://www.inspiredtaste.net/21318/how-to-make-peanut-butter-three-ways/">this</a> recipe. I chopped 2 cups of roasted peanuts in a food processor- luckily if you have a mom who just happened to send you back from the holidays with a giant tub of freshly roasted raw peanuts, you're in luck! Once the peanuts are chopped finely (might have to open up the processor and scrape some of the peanuts stuck to the side walls a few times) and have the consistency matching the crumbs leftover from a <a href="https://www.reddit.com/r/starterpacks/comments/8wadm6/nature_valley_crunch_starterpack/?utm_source=share&utm_medium=web2x&context=3">Nature Valley Crunchy Granola Bar</a>, add in oil, salt, cocoa powder, powdered sugar, and use your food processor to blend it all together. I ended up adding more oil little by little to get the consistency just right for my liking. I also added a 1/2 teaspoon of ground cinnamon because why not? I transferred the resulting chocolate peanut butter into a mason jar and stored it in the fridge. 
 </details>
 
 
@@ -19,7 +19,7 @@ Think nutella but peanut butter (although, just read somewhere that nutella is p
 <center><b>Spicy Butternut Squash Pasta with Spinach</b></center>
 <details>
   <summary>Click here for more details</summary>
-First time cooking with butternut squash- came out pretty good too. The recipe I followed was from The [New York Times](https://cooking.nytimes.com/recipes/1021535-spicy-butternut-squash-pasta-with-spinach). Instead of ground cumin, I substituted it with whole cumin seeds and because I like cumin seeds a lot, I doubled the amount to two tablespoons. For next time, I'd probably add more salt along the way and add some sliced pickled jalapeños right before baking the dish (I just used raw jalapeños this time) to help the flavor.
+First time cooking with butternut squash- came out pretty good too. The recipe I followed was from The <a href="https://cooking.nytimes.com/recipes/1021535-spicy-butternut-squash-pasta-with-spinach">New York Times</a>. Instead of ground cumin, I substituted it with whole cumin seeds and because I like cumin seeds a lot, I doubled the amount to two tablespoons. For next time, I'd probably add more salt along the way and add some sliced pickled jalapeños right before baking the dish (I just used raw jalapeños this time) to help the flavor.
 </details>
 
 ## Recipe 3: Simple Pasta with Minimal Ingredients
@@ -33,7 +33,7 @@ Here's a really simple recipe to make pasta that does not taste like you put sto
 >- 3 cloves of garlic, finely chopped 
 >- 1 medium sized oninon, chopped
 >- 1/2 cup of White Zinfandel Wine (I used Beringer- doesn't break the bank and it also happens to be the one my mom used)
->- 28 oz can of San Marzano Tomatoes, Crushed (I really like [this brand](https://www.instacart.com/landing?product_id=24878&retailer_id=161&region_id=1392025211&mrid=142960563&utm_medium=sem_shopping&utm_source=instacart_google&utm_campaign=ad_demand_shopping_food_ca_losangeles_newengen&utm_content=accountid-8145171519_campaignid-1700095389_adgroupid-86977167996_device-c&gclid=Cj0KCQiA3NX_BRDQARIsALA3fIJi8iaJhoLX6iQR2jblePi_21TmbloVDHHqRqPpMPxBHWLKcT00GXsaAoiPEALw_wcB))
+>- 28 oz can of San Marzano Tomatoes, Crushed (I really like <a href="https://www.instacart.com/landing?product_id=24878&retailer_id=161&region_id=1392025211&mrid=142960563&utm_medium=sem_shopping&utm_source=instacart_google&utm_campaign=ad_demand_shopping_food_ca_losangeles_newengen&utm_content=accountid-8145171519_campaignid-1700095389_adgroupid-86977167996_device-c&gclid=Cj0KCQiA3NX_BRDQARIsALA3fIJi8iaJhoLX6iQR2jblePi_21TmbloVDHHqRqPpMPxBHWLKcT00GXsaAoiPEALw_wcB">this brand</a>)
 <br>1 lb of spaghetti
 <br>parmesan cheese [optional]
 <br>shrimp [optional]
