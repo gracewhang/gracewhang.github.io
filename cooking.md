@@ -29,14 +29,16 @@ First time cooking with butternut squash- came out pretty good too. The recipe I
   <summary>Click here for more details</summary>
 Here's a really simple recipe to make pasta that does not taste like you put store bought pasta directly into a jar of pre-made pasta sauce. This recipe was adapted from a phone call I had with my mom about how she made the seafood pasta we had over winter break. Here are very loose and rather hand wavy instructions. For the pasta pictured above, I will admit that I spilled half a container of italian seasoning into my pasta and had to pick out as much as I could. With that being said, I don't think italian spices are necessary so I will opt out going forward. So without further ado, here are the ingredients:
 <br>For a serving size to feed a village, you'll need:
->- olive oil, enough to cover the bottom of a pan (I used a 14" diameter, 3" tall pan)
->- 3 cloves of garlic, finely chopped 
->- 1 medium sized oninon, chopped
->- 1/2 cup of White Zinfandel Wine (I used Beringer- doesn't break the bank and it also happens to be the one my mom used)
->- 28 oz can of San Marzano Tomatoes, Crushed (I really like <a href="https://www.instacart.com/landing?product_id=24878&retailer_id=161&region_id=1392025211&mrid=142960563&utm_medium=sem_shopping&utm_source=instacart_google&utm_campaign=ad_demand_shopping_food_ca_losangeles_newengen&utm_content=accountid-8145171519_campaignid-1700095389_adgroupid-86977167996_device-c&gclid=Cj0KCQiA3NX_BRDQARIsALA3fIJi8iaJhoLX6iQR2jblePi_21TmbloVDHHqRqPpMPxBHWLKcT00GXsaAoiPEALw_wcB">this brand</a>)
-<br>1 lb of spaghetti
-<br>parmesan cheese [optional]
-<br>shrimp [optional]
+<ul>
+<li>olive oil, enough to cover the bottom of a pan (I used a 14" diameter, 3" tall pan)</li>
+<li>3 cloves of garlic, finely chopped</li> 
+<li>1 medium sized oninon, chopped</li>
+<li>1/2 cup of White Zinfandel Wine (I used Beringer- doesn't break the bank and it also happens to be the one my mom used)
+<li>28 oz can of San Marzano Tomatoes, Crushed (I really like <a href="https://www.instacart.com/landing?product_id=24878&retailer_id=161&region_id=1392025211&mrid=142960563&utm_medium=sem_shopping&utm_source=instacart_google&utm_campaign=ad_demand_shopping_food_ca_losangeles_newengen&utm_content=accountid-8145171519_campaignid-1700095389_adgroupid-86977167996_device-c&gclid=Cj0KCQiA3NX_BRDQARIsALA3fIJi8iaJhoLX6iQR2jblePi_21TmbloVDHHqRqPpMPxBHWLKcT00GXsaAoiPEALw_wcB">this brand</a>)</li>
+<li>1 lb of spaghetti</li>
+<li>parmesan cheese [optional]</li>
+<li>shrimp [optional]</li>
+</ul>  
 
 So yeah- you only need 6 ingredients to make this pasta (of course, if you want to add shrimp, meat, or other vegetables, you can also tack that onto the ingredients).
 
