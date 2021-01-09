@@ -38,8 +38,8 @@ Here's a really simple recipe to make pasta that does not taste like you put sto
 <li>1 lb of spaghetti</li>
 <li>parmesan cheese [optional]</li>
 <li>shrimp [optional]</li>
-</ul>  
-
+</ul>
+<br>
 So yeah- you only need 6 ingredients to make this pasta (of course, if you want to add shrimp, meat, or other vegetables, you can also tack that onto the ingredients).
 
 <br> So the general instructions are first, heat up the pan, add in the oil, add in the garlic. Saute for 1 minute and then add the diced onions. Saute the onion and garlic mixture for 5 minutes or until the onions have a semi-tranparent appearance. Reduce the heat a bit and add in the wine and mix for another few minutes. Afterwards, add in the tomato sauce. This is basically it for the sauce. If you want to dilute the sauce, you can also use some of boiled pasta water to dilute and thin the sauce a bit. Add in the pasta noodles and mix! Voila. Also, pour yourself a glass of some of that white zinfandel and enjoy!
