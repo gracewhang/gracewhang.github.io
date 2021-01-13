@@ -48,7 +48,7 @@ Note: Since I was making this for my apartmentmate (who also happens to be veget
 </details>
 
 ## Recipe 4: Roasted Salmon with Honey Glaze Paired with Purple Rice
-![Image description](/images/20210112_salmon.JPG)
+![Image description](/images/20210107_salmon.JPG)
 <center><b>Roasted Salmon with Honey Glaze Paired with Purple Rice</b></center>
 <details>
   
