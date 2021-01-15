@@ -47,6 +47,7 @@ So yeah- you only need 6 ingredients to make this pasta (of course, if you want 
 Note: Since I was making this for my apartmentmate (who also happens to be vegetarian) I cooked the shrimp separately and added it to my bowl. If you want to add the shrimp directly into the sauce, I would add it when you reduce the heat and add the wine, so that it can soak in the flavor that the wine imparts. If you want to add it in after like I did, I peeled the raw shrimp and had it sitting in a bowl with lemon juice and italian seasoning for 30 minutes prior to cooking.
 </details>
 
+
 ## Recipe 4: Roasted Salmon with Honey Glaze Paired with Purple Rice
 ![Image description](/images/20210107_salmon.JPG)
 <center><b>Roasted Salmon with Honey Glaze Paired with Purple Rice</b></center>
