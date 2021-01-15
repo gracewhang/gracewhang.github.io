@@ -52,6 +52,7 @@ Note: Since I was making this for my apartmentmate (who also happens to be veget
 ![Image description](/images/20210107_salmon.JPG)
 <center><b>Roasted Salmon with Honey Glaze Paired with Purple Rice</b></center>
 <details>
+  <summary>Click here for more details</summary>
   
 </details>
 
@@ -59,6 +60,7 @@ Note: Since I was making this for my apartmentmate (who also happens to be veget
 ![Image description](/images/20210112_pasta.JPG)
 <center><b>Carmelized Shallot Pasta</b></center>
 <details>
+  <summary>Click here for more details</summary>
 </details>
 ## and so on and so forth
 
