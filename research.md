@@ -17,7 +17,7 @@ For more details, you click here for an extended overview of the project [here](
 
 Here's a link to a Perspective my collaborator Qizhang and I helped write in [Applied Physics Letters](https://aip.scitation.org/doi/abs/10.1063/5.0018417) about interface engineering of the challenging lithium metal interface and our two cents on where we see the field going.
 
-<br> Here's a link to my work studying the mechanism of plating lithium underneath lithium-tin based intermetallic coatings as an approach to circumvent lithium dendrites published in [Journal of Materials Research](link)
+<br> Here's a link to my work studying the mechanism of plating lithium underneath lithium-tin based intermetallic coatings as an approach to circumvent lithium dendrites published in [Journal of Materials Research](https://link.springer.com/article/10.1557/s43578-020-00047-8)
 
 <br> I presented at the [Materials Research Society (MRS) Fall 2020 Conference at symposium EN03](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2020-mrs-spring-and-fall-meeting/call-for-papers/call-for-papers-detail?code=F.EN03) (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award." Here's a link to my [abstract](link).
 
