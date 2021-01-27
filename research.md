@@ -8,7 +8,7 @@ I'm a PhD student in [Materials Science & Engineering](https://www.mse.ucla.edu/
 ### 1) Understanding the mechanism of lithium plating underneath coatings as an approach to circumventing lithium dendrites
 
 
-
+![Image]('/images/Picture1.png')
 
 Lithium metal has long been considered the anode of choice for next-generation high energy density batteries due to its low standard reduction potential (-3.04 V vs. SHE) and high specific capacity (3860 mAh g-1, ten times that of commercially used graphite). The challenge of using a lithium metal anode stems from safety concerns in addition to long term stability/performance (Low Coulombic Efficiency and Dead Lithium). Both concerns can more or less be pin pointed at the formation of "lithium dendrites," that is, finger-like and branch-like lithium structures that form and grow upon repeated plating and stripping cycles. Lithium dendrites have been found to puncture through separators and reach the cathode, resulting in a short circuit (large currents, high heat, flammable electrolyte= big safety issue). In order to address the problem, the interface, a critical region where breakdown and decomposition often occurs, must be properly understood and stabilized. 
 <br>
@@ -19,7 +19,7 @@ Here's a link to a Perspective my collaborator Qizhang and I helped write in [Ap
 
 <br> Here's a link to my work studying the mechanism of plating lithium underneath lithium-tin based intermetallic coatings as an approach to circumvent lithium dendrites published in [Journal of Materials Research](https://link.springer.com/article/10.1557/s43578-020-00047-8)
 
-<br> I presented at the [Materials Research Society (MRS) Fall 2020 Conference at symposium EN03](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2020-mrs-spring-and-fall-meeting/call-for-papers/call-for-papers-detail?code=F.EN03) (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award." Here's a link to my [abstract](link).
+<br> I presented at the [Materials Research Society (MRS) Fall 2020 Conference at symposium EN03](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2020-mrs-spring-and-fall-meeting/call-for-papers/call-for-papers-detail?code=F.EN03) (Overcoming the Challenges with Metal Anodes for High-Energy Batteries) and my talk was presented with a "Best Presentation Award." 
 
 ### 2) Studying the influence microstructure on electrochemical performance of ionogel electrolytes. 
 
