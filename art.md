@@ -8,10 +8,10 @@ permalink: /art/
 <details>
   <summary>Click here for more</summary>
 
-<img src="/images/img1.jpg" alt=" " style="width:500px;height:600px;">
-<img src="/images/img3.jpg" alt=" " style="width:500px;height:600px;">
-<img src="/images/img4.jpg" alt=" " style="width:500px;height:600px;">
-<img src="/images/img5.jpg" alt=" " style="width:500px;height:600px;">
+<img src="/images/img1.jpg" alt=" " style="width:800px;height:600px;">
+<img src="/images/img3.jpg" alt=" " style="width:800px;height:600px;">
+<img src="/images/img4.jpg" alt=" " style="width:800px;height:600px;">
+<img src="/images/img5.jpg" alt=" " style="width:800px;height:600px;">
 </details>
 
 
@@ -20,7 +20,7 @@ permalink: /art/
 <details>
   <summary>Click here for more</summary>
 
-<img src="/images/2021_colorfulblob.jpg" alt=" " style="width:500px;height:600px;">
-<img src="/images/2021_scissors.jpg" alt=" " style="width:500px;height:600px;">
-<img src="/images/2021_catscradle.jpg" alt=" " style="width:500px;height:600px;">
+<img src="/images/2021_colorfulblob.jpg" alt=" " style="width:800px;height:600px;">
+<img src="/images/2021_scissors.jpg" alt=" " style="width:800px;height:600px;">
+<img src="/images/2021_catscradle.jpg" alt=" " style="width:800px;height:600px;">
 </details>
