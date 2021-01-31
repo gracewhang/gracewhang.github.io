@@ -26,5 +26,5 @@ permalink: /art/
 </details>
 
 
-## Wire Art
+## Wire+Concrete Art
 ![Image description](/images/2021_colorfulblob.jpg)
