@@ -27,4 +27,4 @@ permalink: /art/
 
 
 ## Wire+Concrete Art
-![Image description](/images/2021_colorfulblob.jpg)
+![Image description](/images/2019_wire.jpg)
