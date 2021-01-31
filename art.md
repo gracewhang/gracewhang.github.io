@@ -26,5 +26,5 @@ permalink: /art/
 </details>
 
 
-## Wire+Concrete Art
+## Mixed Media Art
 ![Image description](/images/2019_wire.jpg)
