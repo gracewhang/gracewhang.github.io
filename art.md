@@ -26,5 +26,9 @@ permalink: /art/
 </details>
 
 
-## Mixed Media Art
+## Concrete + Wire Art
 ![Image description](/images/2019_wire.jpg)
+
+
+## Air Clay Pots
+![Image description](/images/clay.jpg)
