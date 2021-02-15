@@ -22,7 +22,6 @@ If you want some music to pair this code with, I'd recommend "Hang on Little Tom
 </center>
 
 
-## What's in the Works: 
 ## Determining Capacity from a Cyclic Voltammetry (a fancy way of saying area analysis)[MATLAB]
 Here is a [link](https://github.com/gracewhang/Cyclic_Voltammetry_Capacity_Analysis) to the Cyclic_Voltammagram_Capacity_Analysis repository.
 
@@ -30,5 +29,7 @@ The premise of this work is to save me time going forward by investing some time
 
 This is a perfect example of sitting in high school math class wondering "will I ever use this?" Turns out, the answer is yes, but luckily I am not solving this by hand.
 
+
+## Creating 3D Surface Plot with 3D Scatter Plot Data [MATLAB]
 
 ![Image description](/images/CV_capacity.png)
