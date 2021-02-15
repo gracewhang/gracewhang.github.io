@@ -28,6 +28,11 @@ permalink: /art/
 
 ## Wire Art
 ![Image description](/images/2019_wire.jpg)
+<details>
+  <summary>Click here for more</summary>
+<img src="/images/2019_wire.jpg" alt=" " style="width:720px;height:540px;">
+<img src="/images/wire_hand" alt=" " style="width:540px;height:720px;">
+</details>
 
 
 ## Clay Art
