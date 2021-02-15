@@ -26,9 +26,9 @@ permalink: /art/
 </details>
 
 
-## Concrete + Wire Art
+## Wire Art
 ![Image description](/images/2019_wire.jpg)
 
 
-## Air Clay Pots
+## Clay Art
 ![Image description](/images/clay.jpg)
