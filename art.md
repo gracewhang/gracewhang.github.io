@@ -31,7 +31,7 @@ permalink: /art/
 <details>
   <summary>Click here for more</summary>
 <img src="/images/2019_wire.jpg" alt=" " style="width:720px;height:540px;">
-<img src="/images/wire_hand.jpg" alt=" " style="width:540px;height:720px;">
+  <center><img src="/images/wire_hand.jpg" alt=" " style="width:540px;height:720px;"></center>
 </details>
 
 
