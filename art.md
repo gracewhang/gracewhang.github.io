@@ -34,4 +34,4 @@ permalink: /art/
 ![Image description](/images/clay.jpg)
 
 ## Knitting
-![Image description](/images/scarf1.jpg)
+![Image description](/images/scarf2.jpg)
