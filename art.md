@@ -28,12 +28,10 @@ permalink: /art/
 
 ## Wire Art
 ![Image description](/images/2019_wire.jpg)
-<details>
-  <summary>Click here for more</summary>
-<img src="/images/2019_wire.jpg" alt=" " style="width:720px;height:540px;">
-  <center><img src="/images/wire_hand.jpg" alt=" " style="width:540px;height:720px;"></center>
-</details>
 
 
 ## Clay Art
 ![Image description](/images/clay.jpg)
+
+## Knitting
+![Image description](/images/scarf1.jpg)
