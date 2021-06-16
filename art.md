@@ -29,9 +29,3 @@ permalink: /art/
 ## Wire Art
 ![Image description](/images/2019_wire.jpg)
 
-
-## Clay Art
-![Image description](/images/clay.jpg)
-
-## Knitting
-![Image description](/images/scarf2.jpg)
