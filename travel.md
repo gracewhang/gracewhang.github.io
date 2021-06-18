@@ -121,11 +121,11 @@ permalink: /travel/
 <br>	
 
 
-![Image description](/images/Jtree.jpg)
+![Image description](/images/Jtree.JPG)
 <center>Joshua Tree National Park, California: May 2021</center>
 <br>	
 
 
-![Image description](/images/StoneyPoint.png)
+![Image description](/images/StoneyPoint.JPG)
 <center>Stoney Point, California: June 2021</center>
 <br>	
