@@ -115,3 +115,17 @@ permalink: /travel/
 <center>Idyllwild, California: December 2020</center>
 <br>	
 
+
+![Image description](/images/Ojai.jpg)
+<center>Ojai, California: April 2021</center>
+<br>	
+
+
+![Image description](/images/Jtree.jpg)
+<center>Joshua Tree National Park, California: May 2021</center>
+<br>	
+
+
+![Image description](/images/StoneyPoint.png)
+<center>Stoney Point, California: June 2021</center>
+<br>	
