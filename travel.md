@@ -129,3 +129,8 @@ permalink: /travel/
 ![Image description](/images/StoneyPoint.JPG)
 <center>Stoney Point, California: June 2021</center>
 <br>	
+
+
+Sequoia
+Boston
+San Francisco
