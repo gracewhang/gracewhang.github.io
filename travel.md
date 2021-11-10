@@ -145,5 +145,7 @@ permalink: /travel/
 <center>San Francisco, California: August 2021</center>
 <br>	
 
-Boston
-San Francisco
+
+![Image description](/images/2021Nov_Angeles.jpg)
+<center>Angeles National Forest, California: November 2021</center>
+<br>	
