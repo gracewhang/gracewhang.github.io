@@ -3,6 +3,17 @@ layout: default
 title: Plants
 permalink: /plants/
 ---
+## 2021 Gardening Highlights
+
+![Image description](/images/2020_hops.png)
+<center>Jacaranda Tree (see 2020 photo for comparison)</center>
+<br>
+
+![Image description](/images/2020_hops.png)
+<center>Dragonfruit Tree (see 2020 photo for comparison)</center>
+<br>
+
+
 ## 2020 Gardening Highlights
 ![Image description](/images/2020_hops.png)
 <center>Cascade Hops. Got to use them in my homebrew this year</center>
