@@ -141,8 +141,8 @@ permalink: /travel/
 <br>	
 
 
-![Image description](/images/2021July_Kings_Canyon.jpg)
-<center>Kings Canyon National Park, California: July 2021</center>
+![Image description](/images/2021Aug_SF.jpg)
+<center>San Francisco, California: August 2021</center>
 <br>	
 
 Boston
