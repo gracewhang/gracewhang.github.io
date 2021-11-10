@@ -5,12 +5,13 @@ permalink: /plants/
 ---
 ## 2021 Gardening Highlights
 
-![Image description](/images/2020_hops.png)
-<center>Jacaranda Tree (see 2020 photo for comparison)</center>
+![Image description](/images/2021_Dragonfruitflower.jpg)
+![Image description](/images/2021_Dragonfruit.jpg)
+<center>Dragonfruit Tree (see 2020 photo for comparison)</center>
 <br>
 
-![Image description](/images/2020_hops.png)
-<center>Dragonfruit Tree (see 2020 photo for comparison)</center>
+![Image description](/images/2021_Jacaranda.jpg)
+<center>Jacaranda Tree (see 2020 photo for comparison)</center>
 <br>
 
 
