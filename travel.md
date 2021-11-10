@@ -131,7 +131,7 @@ permalink: /travel/
 <br>	
 
 
-![Image description](/images/2021July_Kings_Canyon.jpg)
+![Image description](/images/2021July_Kings_Canyon.JPG)
 <center>Kings Canyon National Park, California: July 2021</center>
 <br>	
 
