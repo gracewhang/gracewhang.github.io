@@ -105,46 +105,33 @@ permalink: /travel/
 <center>Borrego Springs, California: April 2020</center>
 <br>	
 
-
 ![Image description](/images/Nov2020_topanga.png)
 <center>Topanga State Park, California: November 2020</center>
 <br>	
-
 
 ![Image description](/images/Dec2020_idyllwild.png)
 <center>Idyllwild, California: December 2020</center>
 <br>	
 
-
 ![Image description](/images/Ojai.jpg)
 <center>Ojai, California: April 2021</center>
 <br>	
-
 
 ![Image description](/images/Jtree.JPG)
 <center>Joshua Tree National Park, California: May 2021</center>
 <br>	
 
-
-![Image description](/images/StoneyPoint.JPG)
-<center>Stoney Point, California: June 2021</center>
-<br>	
-
-
 ![Image description](/images/2021July_Kings_Canyon.JPG)
 <center>Kings Canyon National Park, California: July 2021</center>
 <br>	
-
 
 ![Image description](/images/2021Aug_Boston.jpg)
 <center>Boston, Massachusetts: August 2021</center>
 <br>	
 
-
 ![Image description](/images/2021Aug_SF.jpg)
 <center>San Francisco, California: August 2021</center>
 <br>	
-
 
 ![Image description](/images/2021Nov_Angeles.jpg)
 <center>Angeles National Forest, California: November 2021</center>
