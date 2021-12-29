@@ -21,8 +21,8 @@ permalink: /art/
   <summary>Click here for more</summary>
 
 <img src="/images/2021_colorfulblob.jpg" alt=" " style="width:720px;height:540px;">
+<img src="/images/tote_bag.jpg" alt=" " style="width:720px;height:540px;">
 <img src="/images/2021_scissors.jpg" alt=" " style="width:720px;height:540px;">
-<img src="/images/2021_catscradle.jpg" alt=" " style="width:720px;height:540px;">
 </details>
 
 
