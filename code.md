@@ -31,6 +31,11 @@ The premise of this work is to save me time going forward by investing some time
 
 
 
-## Creating 3D Surface Plot with 3D Scatter Plot Data [MATLAB]
-3D bode analysis as a methode to understand and differentiate different charge storage mechanisms is a relatively new technique demonstrated by [Jesse Ko](https://www.researchgate.net/profile/Jesse-Ko/publication/340640541_Differentiating_Double-Layer_Pseudocapacitance_and_Battery-like_Mechanisms_by_Analyzing_Impedance_Measurements_in_Three_Dimensions/links/5f349cad458515b7291be672/Differentiating-Double-Layer-Pseudocapacitance-and-Battery-like-Mechanisms-by-Analyzing-Impedance-Measurements-in-Three-Dimensions.pdf) at John Hopkins University. Here is a [link] to the repository to make these 3D bode plots. If you aren't interested in this specific application, you can use this general code framework to make your own 3D plot. enjoy!
+## Creating GITT plots [Python]
+Here is the a [link](https://github.com/gracewhang/GITT_plot) to the GITT_plot repository
+
+This code plots GITT data, locates peaks and valleys, and estimates overpotential as function of specific capacity. 
+![GITT_3x1_plot](https://user-images.githubusercontent.com/62355151/149397156-4e3d3fcc-ea1b-4eb3-9d08-c95bd541e51c.png)
+
+
 
