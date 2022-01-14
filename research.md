@@ -44,7 +44,7 @@ For on chip-batteries, finding a suitable solid electrolyte, is an area of resea
 
 
 <p align="center">
-![TOC](https://user-images.githubusercontent.com/62355151/149577053-c38ad44d-0c8a-4fa3-b43f-40e2d9003d5c.png)
+  <img src="https://user-images.githubusercontent.com/62355151/149577053-c38ad44d-0c8a-4fa3-b43f-40e2d9003d5c.png" />
 </p>
 
 
