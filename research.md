@@ -26,6 +26,7 @@ Here's a link to a Perspective my collaborator Qizhang and I helped write in [Ap
 Ionogels are a class of pseudosolids. They are a composite of two phases: 1) a room temperature molten salt(think liquid soup consisting of just ions) which is confined in 2) a solid silica matrix (think porous glass with pore sizes in the nanoscale). Ionogels behave like solids at the macroscale and like liquids at the nanoscale, resulting in faster ion movement(ions in liquids are generally faster than in solids), while imparting the beneficial mechanical properties of a solid. Solid state electrolytes often suffer from high resistances formed at the solid/solid interface. With an ionogel, we can circumvent this problem of high interfacial resistance due to the formation of solid/liquid interfaces from the ionic liquid. The future of battery technology has shifted towards an all solid state system, removing the need to use flammable liquid electrolytes. Ionogels are generally non-flammable due to their negligible vapor pressure which make them promising candidates from a safety standpoint. In addition to the fact that the ionic liquid does not evaporate out of the silica matrix, it also stays confined inside the host silica matrix through capillary forces which make them an interesting class of materials to study for more reasons than one. Lastly, there is a growing interest in the use of ionogels in low temperature applications(space perhaps?) due to the low freezing point which can further be lowered by mixing of different salts(entropy effect) and also due the confinement effects from the nanoporpous silica matrix.
 
 <br>I don't have any published work on this project but if you're interested in ionogels, I'd highly recommend this [paper](https://www.cell.com/joule/pdfExtended/S2542-4351(17)30037-5) published in Joule from our group.
+<br>
 
 ### 3) Translating photolithographic cleanroom technologies to fabricate a solid state photopatternable battery for on-chip applications
 
@@ -35,9 +36,23 @@ For on chip-batteries, finding a suitable solid electrolyte, is an area of resea
 
 <br>If you're interested in this work, I'd check out this [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201703772) published in Advanced Materials from our group.
 
-While the photopatternable solid electrolyte provides a good direction towards on-chip battery realization, the relatively low ionic conducitivty (52 uS/cm), prevents its use in high power applications. While adding more salt (hence Li-ions) into the SU-8 could incrementally improve the conductivity, there is a tradeoff with photopatterability as LiClO4 salt scatters the UV light during exposure of the photoresist. An alternative direction is the ability to create a photopatternable separator which can confine much higher ionic conductivity liquid electrolytes.
 
-<br>If you're interested in this work, I'd check out this [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201703772) published in Advanced Materials from our group.
+
+<br>
+<br>
+
+
+
+![TOC](https://user-images.githubusercontent.com/62355151/149577053-c38ad44d-0c8a-4fa3-b43f-40e2d9003d5c.png)
+
+
+While the photopatternable solid electrolyte provides a good direction towards on-chip battery realization, the relatively low ionic conducitivty (52 uS/cm), prevents its use in high power applications. While adding more salt (hence Li-ions) into the SU-8 could incrementally improve the conductivity, there is a tradeoff with photopatterability as LiClO4 salt scatters the UV light during exposure of the photoresist. An alternative direction is the ability to create a photopatternable separator which can confine much higher ionic conductivity liquid electrolytes. The ability to spatially pattern and fabricate porous conformal separators is a direction that provides a new direction for enabling high power density on-chip batteries.
+
+![p_sep](https://user-images.githubusercontent.com/62355151/149576947-65fd787a-fbc6-432f-9e05-917740548f97.jpg)
+
+
+
+<br>If you're interested in this work, I'd check out this [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202108792) published in Advanced Materials from our group.
 
 
 <br>
