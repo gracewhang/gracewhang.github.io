@@ -42,9 +42,9 @@ For on chip-batteries, finding a suitable solid electrolyte, is an area of resea
 <br>
 
 
-
+<center>
 ![TOC](https://user-images.githubusercontent.com/62355151/149577053-c38ad44d-0c8a-4fa3-b43f-40e2d9003d5c.png)
-
+</center>
 
 While the photopatternable solid electrolyte provides a good direction towards on-chip battery realization, the relatively low ionic conducitivty (52 uS/cm), prevents its use in high power applications. While adding more salt (hence Li-ions) into the SU-8 could incrementally improve the conductivity, there is a tradeoff with photopatterability as LiClO4 salt scatters the UV light during exposure of the photoresist. An alternative direction is the ability to create a photopatternable separator which can confine much higher ionic conductivity liquid electrolytes. The ability to spatially pattern and fabricate porous conformal separators is a direction that provides a new direction for enabling high power density on-chip batteries.
 
