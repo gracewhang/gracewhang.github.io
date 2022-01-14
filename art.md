@@ -15,11 +15,11 @@ permalink: /art/
 </details>
 
 
-## Tote Bag Art
+## Canvas Art
 ![Image description](/images/tote_bags.png)
 
 
 
-## Wire Art
+## Mixed Media Art
 ![Image description](/images/2019_wire.jpg)
 
