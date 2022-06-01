@@ -136,3 +136,19 @@ permalink: /travel/
 ![Image description](/images/2021Nov_Angeles.jpg)
 <center>Angeles National Forest, California: November 2021</center>
 <br>	
+
+![Image description](/images/2022_Feb_UCLA.jpg)
+<center>University of California Los Angeles: February 2022</center>
+<br>	
+
+![Image description](/images/2022_March_Santa_Monica.jpg)
+<center>Santa Monica, California: March 2022</center>
+<br>	
+
+![Image description](/images/2022_April_Ojai.jpg)
+<center>Ojai, California: April 2022</center>
+<br>	
+
+![Image description](/images/2022_May_Hawaii.jpg)
+<center>Honolulu, Hawaii: May 2022</center>
+<br>	
