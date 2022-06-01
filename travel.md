@@ -152,3 +152,8 @@ permalink: /travel/
 ![Image description](/images/2022_May_Hawaii.jpg)
 <center>Honolulu, Hawaii: May 2022</center>
 <br>	
+
+![Image description](/images/2022_May_Hawaii.jpg)
+<center>Honolulu, Hawaii: May 2022</center>
+<br>	
+
