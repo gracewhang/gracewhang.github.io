@@ -153,7 +153,7 @@ permalink: /travel/
 <center>Honolulu, Hawaii: May 2022</center>
 <br>	
 
-![Image description](/images/2022_May_Hawaii.jpg)
-<center>Honolulu, Hawaii: May 2022</center>
+![Image description](/images/2022_May_Madison_Wisconsin.jpg)
+<center>Madison, Wisconsin: May 2022</center>
 <br>	
 
