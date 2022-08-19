@@ -157,3 +157,10 @@ permalink: /travel/
 <center>Madison, Wisconsin: May 2022</center>
 <br>	
 
+![Image description](/images/2022_July_VasquezRocks.jpg)
+<center>Vasquez Rocks Hiking Trail. Agua Dulce, California: July 2022</center>
+<br>	
+
+![Image description](/images/2022_Aug_BlacksBeach.jpg)
+<center>Black's Beach. La Jolla, California: August 2022</center>
+<br>	
