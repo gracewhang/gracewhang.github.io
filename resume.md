@@ -1,9 +1,5 @@
----
-layout: default
-title: Resume
-permalink: /resume/
----
-Johnny Coder
+
+Grace Whang
 ============
 
 -------------------     ----------------------------
