@@ -3,25 +3,22 @@ Grace Whang
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017-2022 
+:   **PhD, Materials Science and Engineering**; University of California Los Angeles
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Electrochemical Insights on Materials for Next-Generation Batteries*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2013-2017
+:   **BSc, Nanoengineering (Materials Science Focus)**; University of
+    California San Diego
 
-    *Minor: Awesomeology*
+  
 
 Experience
 ----------
