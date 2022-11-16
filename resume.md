@@ -15,8 +15,10 @@ Education
     *Thesis title: Electrochemical Insights on Materials for Next-Generation Batteries*
 
 2013-2017
-:   **BSc, Nanoengineering (Materials Science Focus)**; University of
+:   **BSc, Nanoengineering**; University of
     California San Diego
+    
+    *Magna Cum Laude*
 
   
 
