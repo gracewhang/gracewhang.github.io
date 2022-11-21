@@ -178,15 +178,15 @@ permalink: /travel/
 <br>	
 
 ![Image description](/images/2022_Sept_Los_Angeles.jpg)
-<center>Johnny Pastramis. Los Angeles, California: September 2022</center>
+<center>Johnny's Pastrami. Los Angeles, California: September 2022</center>
 <br>	
 
 ![Image description](/images/2022_Sept_Koln.jpg)
-<center> Koln, Germany: September 2022</center>
+<center> Köln, Germany: September 2022</center>
 <br>	
 
 ![Image description](/images/2022_Oct_Dusseldorf.jpg)
-<center>Dusseldorf, Germany: October 2022</center>
+<center>Ständehaus Park. Dusseldorf, Germany: October 2022</center>
 <br>	
 
 ![Image description](/images/2022_Oct_Zons.jpg)
@@ -198,6 +198,6 @@ permalink: /travel/
 <br>	
 
 ![Image description](/images/2022_Nov_Koln.jpg)
-<center>Karneval. Koln, Germany: November 2022</center>
+<center>Karneval. Köln, Germany: November 2022</center>
 <br>	
 
