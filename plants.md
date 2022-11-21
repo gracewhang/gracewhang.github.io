@@ -7,11 +7,11 @@ permalink: /plants/
 
 ![Image description](/images/2021_Dragonfruitflower.jpg)
 ![Image description](/images/2021_Dragonfruit.jpg)
-<center>Dragonfruit Tree (see 2020 photo for comparison)</center>
+<center>Dragonfruit Tree</center>
 <br>
 
 ![Image description](/images/2021_Jacaranda.jpg)
-<center>Jacaranda Tree (see 2020 photo for comparison)</center>
+<center>Jacaranda Tree</center>
 <br>
 
 
@@ -25,15 +25,11 @@ permalink: /plants/
 <br>
 
 ![Image description](/images/2020_okra.png)
-<center>Flower from my Okra plant</center>
+<center>Okra plant flower</center>
 <br>
 
 ![Image description](/images/2020_tomato.png)
 <center>San Marzano Tomato </center>
-<br>
-
-![Image description](/images/2020_tomato1.png)
-<center>Normal San Marzano Tomatoes</center>
 <br>
 
 ![Image description](/images/2020_dragonfruit.png)
@@ -49,7 +45,7 @@ permalink: /plants/
 <br>
 
 ![Image description](/images/2020_potato.png)
-<center>Long time admirer, first time grower: potatoes!</center>
+<center>Potatoes</center>
 <br>
 
 ![Image description](/images/2020_sunflower.png)
@@ -57,6 +53,6 @@ permalink: /plants/
 <br>
 
 ![Image description](/images/2020_poppy.jpg)
-<center>California Poppies?</center>
+<center>California Poppies</center>
 <br>
 
