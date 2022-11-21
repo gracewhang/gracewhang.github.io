@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /travel/
+permalink: /travel2/
 ---
 ## 2021 +
 
