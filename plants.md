@@ -25,7 +25,7 @@ permalink: /plants/
 <br>
 
 ![Image description](/images/2020_okra.png)
-<center>Okra plant flower</center>
+<center>Okra Flower</center>
 <br>
 
 ![Image description](/images/2020_tomato.png)
