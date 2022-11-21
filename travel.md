@@ -164,3 +164,40 @@ permalink: /travel/
 ![Image description](/images/2022_Aug_BlacksBeach.jpg)
 <center>Black's Beach. La Jolla, California: August 2022</center>
 <br>	
+
+![Image description](/images/2022_Aug_Kenter_Trail.jpg)
+<center>Kenter Trail. Brentwood, California: August 2022</center>
+<br>	
+
+![Image description](/images/2022_Aug_Griffith_Park.jpg)
+<center>Griffith Park. Los Angeles, California: August 2022</center>
+<br>	
+
+![Image description](/images/2022_Sept_San_Francisco.jpg)
+<center>San Francisco, California: September 2022</center>
+<br>	
+
+![Image description](/images/2022_Sept_Los_Angeles.jpg)
+<center>Johnny Pastramis. Los Angeles, California: September 2022</center>
+<br>	
+
+![Image description](/images/2022_Sept_Koln.jpg)
+<center> Koln, Germany: September 2022</center>
+<br>	
+
+![Image description](/images/2022_Oct_Dusseldorf.jpg)
+<center>Dusseldorf, Germany: October 2022</center>
+<br>	
+
+![Image description](/images/2022_Oct_Zons.jpg)
+<center>Zons, Germany: October 2022</center>
+<br>	
+
+![Image description](/images/2022_Nov_Madrid.jpg)
+<center>Joaquin Sorolla Museum. Madrid, Spain: November 2022</center>
+<br>	
+
+![Image description](/images/2022_Nov_Koln.jpg)
+<center>Karneval. Koln, Germany: November 2022</center>
+<br>	
+
