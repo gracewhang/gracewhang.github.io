@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /travel2/
 ---
-## 2021 +
+# 2021 +
 
 ![Image description](/images/Ojai.jpg)
 <center>Ojai, California: April 2021</center>
