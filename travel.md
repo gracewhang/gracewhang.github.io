@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /travel/
 ---
-## 2017-2020
+# 2016-2020
 
 ![Image description](/images/2016Dec_Washington.jpg)
 <center>Snoqualmie, Washington: December 2016</center>
