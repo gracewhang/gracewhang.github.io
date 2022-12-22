@@ -65,6 +65,10 @@ permalink: /travel2/
 <center>Griffith Park. Los Angeles, California: August 2022</center>
 <br>	
 
+![Image description](/images/2022Aug_Malibu.jpg)
+<center>Malibu, California: August 2022</center>
+<br>	
+
 ![Image description](/images/2022_Sept_San_Francisco.jpg)
 <center>San Francisco, California: September 2022</center>
 <br>	
@@ -91,5 +95,9 @@ permalink: /travel2/
 
 ![Image description](/images/2022_Nov_Koln.jpg)
 <center>Karneval. Köln, Germany: November 2022</center>
+<br>	
+
+![Image description](/images/2022Nov_Stockholm.jpg)
+<center>Stockholm, Sweden: November 2022</center>
 <br>	
 
