@@ -3,7 +3,7 @@ layout: default
 title: Plants
 permalink: /plants/
 ---
-## 2021 Gardening Highlights
+## 2021 
 
 ![Image description](/images/2021_Dragonfruitflower.jpg)
 ![Image description](/images/2021_Dragonfruit.jpg)
@@ -15,7 +15,7 @@ permalink: /plants/
 <br>
 
 
-## 2020 Gardening Highlights
+## 2020 
 ![Image description](/images/2020_hops.png)
 <center>Cascade Hops</center>
 <br>
