@@ -101,3 +101,6 @@ permalink: /travel2/
 <center>Stockholm, Sweden: November 2022</center>
 <br>	
 
+![Image description](/images/2022Dec_Amsterdam.jpg)
+<center>Amsterdam, Netherlands: December 2022</center>
+<br>	
