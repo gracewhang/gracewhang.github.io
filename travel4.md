@@ -28,3 +28,6 @@ permalink: /travel4/
 ![Image description](/images/2023_March_Venice.jpg)
 <center>Venice, Italy: March 2023/center>
 <br>	    
+
+  
+  
