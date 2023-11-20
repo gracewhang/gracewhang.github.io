@@ -17,12 +17,7 @@ permalink: /art/
 
 ## Canvas Art
 ![Image description](/images/tote_bags.png)
-<details>
-  <summary>Click here for more</summary>
-
-<img src="/images/IMG_7113.jpg" alt=" " style="width:720px;height:432px;">
-</details>
-
+![Image description](/images/IMG_7113.jpg)
 
 
 ## Mixed Media Art
