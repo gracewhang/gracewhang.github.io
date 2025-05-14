@@ -29,7 +29,7 @@ permalink: /travel4/
 <center>Venice, Italy: March 2023</center>
 <br>	  
   
-![Image description](/images/2023_April_Muenster.JPEG)
+![Image description](/images/2023_April_Muenster.jpg)
 <center>Muenster, Germany: April 2023</center>
 <br>	  
 
